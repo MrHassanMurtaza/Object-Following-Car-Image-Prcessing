@@ -105,7 +105,7 @@ void release(){
     motor4.run(RELEASE);  
 }
 
-void peechyAA(){
+void reverse(){
   motor1.run(BACKWARD);
   motor2.run(BACKWARD);
   motor3.run(BACKWARD);
